@@ -7,7 +7,7 @@ This implementation was used as part of the **official NewsVues app**, a digital
 
 # Dependencies
 Noted dependencies include:
-* [Named Link]((https://github.com/ptomasroos/react-native-scrollable-tab-view) "React Native Scrollable Tab View")
+* [React Native Scrollable Tab View](https://github.com/ptomasroos/react-native-scrollable-tab-view)
 * Expo Blur
 * Expo Linear Gradient
 * React Native Masked View
